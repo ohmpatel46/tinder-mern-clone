@@ -6,7 +6,7 @@ function App() {
     <div className="app">
       <Header/>
       <TinderCards/>
-      {/* (Swipebuttons) */}
+      <SwipeButtons/>
     </div>
   );
 }
