@@ -1,0 +1,17 @@
+{
+  "name": "tinder_backend",
+  "version": "1.0.0",
+  "description": "Bakcend for MERN-tinder-clone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ohm",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^6.0.2"
+  }
+}
